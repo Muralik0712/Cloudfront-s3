@@ -150,6 +150,6 @@ https://d4lqfqqs5m2aj.cloudfront.net/
 
 ## 👨‍💻 Author
 
-Jerwin Andro S
+Murali Prasad K
 
-https://github.com/jerwin-18/Cloudfront-s3.git
+https://github.com/Muralik0712/Cloudfront-s3.git
