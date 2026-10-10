@@ -101,7 +101,7 @@ index.html
 * Access via:
 
 ```
-https://d4lqfqqs5m2aj.cloudfront.net/
+https://d3fp2mduovolfq.cloudfront.net/
 ```
 
 ---
